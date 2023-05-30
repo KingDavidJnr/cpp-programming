@@ -1,4 +1,4 @@
-/x# Binary Tree Data Structure
+# Binary Tree Data Structure
 
 This is a simple implementation of a binary tree data structure in C++. A binary tree is a hierarchical data structure consisting of nodes, where each node has at most two children, referred to as the left child and the right child.
 
